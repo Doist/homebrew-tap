@@ -6,12 +6,12 @@ Homebrew tap for Doist command-line tools.
 
 ```bash
 brew tap Doist/tap
-brew install doistbot
+brew install doistbot-cli
 ```
 
 ## Upgrade
 
 ```bash
 brew update
-brew upgrade doistbot
+brew upgrade doistbot-cli
 ```

@@ -1,4 +1,4 @@
-class Doistbot < Formula
+class DoistbotCli < Formula
   desc "Local self-review CLI for code changes"
   homepage "https://github.com/Doist/doistbot-app"
   url "https://registry.npmjs.org/@doist/doistbot-cli/-/doistbot-cli-1.0.0.tgz"
