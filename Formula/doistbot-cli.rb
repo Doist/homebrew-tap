@@ -2,9 +2,9 @@ class DoistbotCli < Formula
   desc "Local self-review CLI for Doistbot"
   homepage "https://github.com/Doist/doistbot-app"
   # doistbot-cli-tarball-url
-  url "https://registry.npmjs.org/@doist/doistbot-cli/-/doistbot-cli-1.0.14.tgz"
+  url "https://registry.npmjs.org/@doist/doistbot-cli/-/doistbot-cli-1.0.15.tgz"
   # doistbot-cli-tarball-sha256
-  sha256 "c47e751dfda115af09252ef152a6677fb90d7511b91dbf0516414b421bace3a7"
+  sha256 "c6442f5ec3b4a1f588d65b03af39515160192e18b6e6d334dadd2921f82f2025"
   license "UNLICENSED"
 
   depends_on "node"
